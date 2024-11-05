@@ -1,0 +1,5 @@
+Flask
+speechRecognition
+nltk
+scikit-learn
+pickle5  # Note: 'pickle' is a built-in library, 'pickle5' is for compatibility in some cases
